@@ -1,0 +1,70 @@
+/*NAVBAR's Anchor point (0)*/
+#hello {
+  color: #0073F0;
+  padding-top: 93px;
+  height: 93vh;
+}
+
+/*NAVBAR's Anchor point (1)*/
+#works{
+  /*Makes offset space for the navabar*/
+  display: block;
+  position: relative;
+  top: -96px;
+  visibility: hidden;
+}
+
+/*1st project in -Works- grid*/
+#preview1 {
+  background-color: white;
+  color: #1d5659;
+}
+#preview1 a {
+  /*button bkg-color*/
+  background-color: #1d5659;
+}
+
+/*2nd project in -Works- grid*/
+#preview2 {
+  background-color: #d4ccff;
+  color: #5343c1;
+}
+#preview2 a {
+  /*button bkg-color*/
+  background-color: #5343c1;
+}
+
+/*3rd project in -Works- grid*/
+#preview3 {
+  background-color: #ffa5a5;
+  color: #49018b;
+}
+#preview3 a {
+  /*button bkg-color*/
+  background-color: #49018b;
+}
+
+/*4th project in -Works- grid*/
+#preview4 {
+  background-color: #909eb5;
+  color: black;
+}
+#preview4 a {
+  /*button bkg-color*/
+  background-color: #1f2227;
+}
+
+/*NAVBAR's Anchor point (2)*/
+#skills {
+  background-color: white;
+  padding-bottom: 152px;
+  padding-top: 152px;
+}
+
+/*NAVBAR's Anchor point (3)*/
+#contacts {
+  background-color: black;
+  color: white;
+  padding-bottom: 152px;
+  padding-top: 152px;
+}

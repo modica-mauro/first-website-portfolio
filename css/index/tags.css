@@ -1,0 +1,24 @@
+/*Design choises regarding fonts and marking*/
+@font-face {
+  font-family: Beatrice;
+  src: url(../../font/Beatrice-Regular.ttf);
+}
+
+body {
+  font-family: Beatrice;
+}
+
+h1 {
+  font-size: 2em;
+  font-weight: normal;
+}
+
+iframe {
+  max-width: 560px;
+  max-height: 560px;
+}
+
+mark {
+  color: white;
+  background-color: #0073F0;
+}
